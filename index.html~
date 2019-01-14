@@ -15,7 +15,7 @@
 <table class = 'center' style = 'text-align:center;background-color:white'; border ='1'>
 
 <tr> <!--Fila-->
-<td><a href = 'html/rugby.html'><img src= 'figuras/rugby.jpg'></a><figcaption style = 'text-align:center;color:blue;'>Fútbol americano</figcaption></td>
+<td><a href = 'html/rugby.html'><img src= 'figuras/rugby.jpg'></a><figcaption style = 'text-align:center;color:blue;'>Rugby Americano</figcaption></td>
 <td><a href = 'html/atletismo.html'><img src= 'figuras/atletismo.jpg'></a><figcaption style = 'text-align:center;color:blue;'>Atletismo</figcaption></td>
 <td><a href = 'html/baloncesto.html'><img src= 'figuras/baloncesto.jpg'></a><figcaption style = 'text-align:center;color:blue;'>Baloncesto</figcaption></td>
 </tr>
