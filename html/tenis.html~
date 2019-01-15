@@ -4,13 +4,34 @@
 <head> <!--Encabezado-->
 <title>Tenis</title>
 <meta charset = 'utf-8'> 
-<link rel='stylesheet' type='text/css' href='css/estilos.css'>
+<link rel='stylesheet' type='text/css' href='../css/estilos.css'>
 </head>
 
 <body>
 
-<h1 style = 'text-align:center;color:black'> Tenis </h1>
+<h1 style = 'text-align:center;color:white'> Tenis </h1>
 
+<center><img src = '../figuras/tenis.jpg'></center>
+
+<h3>Definición y campo</h3>
+
+<p>El tenis, también llamado tenis de campo, es un deporte de raqueta practicado sobre una pista rectangular (compuesta por distintas superficies las cuales pueden ser cemento, tierra, o césped), delimitada por líneas y dividida por una red.​ Se disputa entre dos jugadores (individuales) o entre dos parejas (dobles).</p> 
+
+<h3>Objetivo</h3>
+
+<p>El objetivo del juego es lanzar una pelota golpeándola con la raqueta de modo que rebote en la otra cancha pasando la red dentro de los límites permitidos del campo del rival, procurando que este no pueda devolverla para conseguir un segundo rebote en el suelo y por ende un punto.</p>
+
+<h3>Etimología</h3>
+
+<p>La palabra española «tenis» proviene del inglés «tennis» que a su vez tiene su origen en el francés «tenez». Cuando el jugador de tenis (llamado «tenista»), ponía la pelota en juego exclamaba «¡tenez!» (‘¡ahí va!’, en francés).</p>
+
+<h3>Historia</h3>
+
+<p>Las primeras referencias del tenis tienen lugar en Francia, nombrado «jeu de paume» (‘juego de palmas’) dado que al principio se golpeaba la pelota con la mano. Más tarde se empezaron a utilizar raquetas.</p>
+
+<p>El tenis original se jugaba en pistas de hierba natural.</p>
+
+<p>Se originó en Europa a finales del siglo XVIII[cita requerida] y se expandió en un principio por los países angloparlantes, especialmente entre sus clases altas. En la actualidad el tenis se ha universalizado, y es jugado en casi todos los países del mundo. Desde 1926, con la creación del primer tour, es un deporte profesional. Es además un deporte olímpico desde los Juegos Olímpicos de Atenas 1896.</p>
 
 </body>
 </html>
